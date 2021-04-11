@@ -11,9 +11,7 @@
 - Sometimes I like to do code challenges on CodeWars
 - Always looking to learn more
 
-<br />
-
-### Languages and Tools:
+## Languages and Tools:
 
 <p>
 <img alt="React" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;React_3de31a4ebb.svg" />
@@ -34,9 +32,7 @@
 <img alt="StyledComponents" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Styled_Components_2564fdf81b.svg" />
 </p>
 
-<br />
-
-### :zap: GitHub Stats
+## :zap: GitHub Stats
 
 <img align="left" alt="IbnDaanis's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IbnDaanis&show_icons=true&hide_border=true" />
 
