@@ -32,8 +32,4 @@
 <img alt="StyledComponents" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Styled_Components_2564fdf81b.svg" />
 </p>
 
-## :zap: GitHub Stats
-
-<img align="left" alt="IbnDaanis's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IbnDaanis&show_icons=true&hide_border=true" />
-
 [website]: https://ikraam.dev
