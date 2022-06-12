@@ -5,10 +5,8 @@
 ## Self-Taught Front-End Developer
 
 - I'm from London, United Kingdom
-- I have been learning web development for several months
+- I've been a developer for almost a year
 - React is my favourite library
-- Making beautiful user interfaces is always fun
-- Sometimes I like to do code challenges on CodeWars
 - Always looking to learn more
 
 ## Languages and Tools:
