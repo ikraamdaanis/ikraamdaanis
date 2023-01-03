@@ -7,5 +7,3 @@
 - I'm from London, United Kingdom
 - I've been a developer for over a year
 - Working with TypeScript, React, Redux
-
-[website]: https://ikraam.dev
